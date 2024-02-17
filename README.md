@@ -114,17 +114,17 @@ The [`Stage_1_EDA_STIGMA.ipynb`](command:_github.copilot.openRelativePath?%5B%22
 <br>
 
 <p align = "center"> 
-    <img src="./assets/img/EDA 3.jpg" width="1000">
+    <img src="./assets/EDA 3.jpg" width="1000">
 </p>
 <br>
 
 <p align = "center"> 
-    <img src="./assets/img/EDA.png" width="1000">
+    <img src="./assets/EDA.png" width="1000">
 </p>
 <br>
 
 <p align = "center"> 
-    <img src="./assets/img/EDA 2.jpg" width="1000">
+    <img src="./assets/EDA 2.jpg" width="1000">
 </p>
 
 <br>
@@ -292,7 +292,7 @@ The improved recall of our GradientBoosting Model as a result of hyperparameter 
 Based on the GradientBoosting model Feature Importance:
 
 <p align = "center"> 
-    <img src="./assets/img/featimp.png" width="1000">
+    <img src="./assets/featimp.png" width="1000">
 </p>
 <br>
 
@@ -303,7 +303,7 @@ The top 3 importance feature is :
 
 ## 📝 Business Impact Simulation  
 <p align = "center"> 
-    <img src="./assets/img/bisnis.jpg" width="1000">
+    <img src="./assets/bisnis.jpg" width="1000">
 </p>
 <br>
 
@@ -316,7 +316,7 @@ Assuming, however, that half of those who consider alternative opportunities fol
 
 <br>
 <p align = "center"> 
-    <img src="./assets/img/bisnis.jpg" width="1000">
+    <img src="./assets/bisnis.jpg" width="1000">
 </p>
 <br>
 
@@ -327,7 +327,7 @@ Assuming a per-person training cost of $257, the projected waste of training fun
 ## ✅ Business Recommendation
 <br>
 <p align = "center"> 
-    <img src="./assets/img/recom.jpg" width="1000">
+    <img src="./assets/recom.jpg" width="1000">
 </p>
 <br>
 
@@ -337,7 +337,7 @@ The primary aim of this recruitment emphasis is to enhance the likelihood of can
 
 <br>
 <p align = "center"> 
-    <img src="./assets/img/recom2.jpg" width="1000">
+    <img src="./assets/recom2.jpg" width="1000">
 </p>
 <br>
 
@@ -355,7 +355,7 @@ We also advise employers to have candidates sign employment contracts after rec
 
 <br>
 <p align = "center"> 
-    <img src="./assets/img/recom 21.jpg" width="1000">
+    <img src="./assets/recom 21.jpg" width="1000">
 </p>
 <br>
 
